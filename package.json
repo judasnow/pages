@@ -1,0 +1,17 @@
+{
+    "name": "Pages",
+    "version": "0.1.0",
+    "repository": "git://github.com/judasnow/pages",
+
+    "dependencies": {
+
+    },
+
+    "devDependencies": {
+        "typescript": "1.0.0"
+        "grunt": "*",
+        "grunt-ts": "*"
+    }
+}
+
+
